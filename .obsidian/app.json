@@ -1,8 +1,3 @@
 {
-  "spellcheck": false,
-  "tabSize": 2,
-  "showUnsupportedFiles": true,
-  "attachmentFolderPath": "./imgs",
-  "alwaysUpdateLinks": true,
-  "useMarkdownLinks": true
+  "alwaysUpdateLinks": true
 }

@@ -4,7 +4,6 @@
 노트의 내용은 모두 이후 만들어질 블로그의 포스트 요소로서 올라갈 예정입니다.<br/>
 
 사이트 주소 : https://fantasmith.com/
-임시 블로그 주소 : https://velog.io/@fantasmith/
 
 <br/><br/>
 
