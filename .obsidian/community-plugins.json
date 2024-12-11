@@ -2,5 +2,7 @@
   "table-editor-obsidian",
   "obsidian-excalidraw-plugin",
   "obsidian-outliner",
-  "remotely-save"
+  "remotely-save",
+  "obsidian-git",
+  "editing-toolbar"
 ]

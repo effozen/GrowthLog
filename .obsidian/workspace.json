@@ -4,89 +4,25 @@
     "type": "split",
     "children": [
       {
-        "id": "4bd6d761432933a3",
+        "id": "86990ca4ca68c71f",
         "type": "tabs",
         "children": [
           {
-            "id": "556db02c9b549198",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "Excalidraw/week7-8.md"
-              },
-              "icon": "excalidraw-icon",
-              "title": "week7-8"
-            }
-          },
-          {
-            "id": "24542c7eef94d83e",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "Excalidraw/week7-8.md"
-              },
-              "icon": "excalidraw-icon",
-              "title": "week7-8"
-            }
-          },
-          {
-            "id": "7944ed9826094ce1",
+            "id": "6d9c33c8973a6855",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "지식창고/성장_일지/비용을 줄이는 개발자라는 신념이 생기기까지 - 불편함을 개선하며 찾은 나만의 가치.md",
+                "file": "200000_Frontend/270000_React/275000_ReactStudy/275100_ReactWIthTSandStorybook/275110_Chapter03/275111_Memo.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "비용을 줄이는 개발자라는 신념이 생기기까지 - 불편함을 개선하며 찾은 나만의 가치"
-            }
-          },
-          {
-            "id": "9b593158a9fddeb7",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.7.5"
-              },
-              "icon": "lucide-file",
-              "title": "Release Notes 1.7.5"
-            }
-          },
-          {
-            "id": "0688268500484316",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "200000_Frontend/240000_Frameworks_Libraries/241000_NoFrameworkFrontend/241100_BookBasedLearning.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "241100_BookBasedLearning"
-            }
-          },
-          {
-            "id": "5596156318c08bd7",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "Excalidraw/그룹 프로젝트.md"
-              },
-              "icon": "excalidraw-icon",
-              "title": "그룹 프로젝트"
+              "title": "275111_Memo"
             }
           }
-        ],
-        "currentTab": 4
+        ]
       }
     ],
     "direction": "vertical"
@@ -219,9 +155,19 @@
               "icon": "spreadsheet",
               "title": "Advanced Tables"
             }
+          },
+          {
+            "id": "5ec70ece50ffd707",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
+            }
           }
         ],
-        "currentTab": 4
+        "currentTab": 5
       }
     ],
     "direction": "horizontal",
@@ -237,47 +183,48 @@
       "command-palette:명령어 팔레트 열기": false,
       "table-editor-obsidian:Advanced Tables Toolbar": false,
       "obsidian-excalidraw-plugin:Create new drawing": false,
-      "remotely-save:Remotely Save": false
+      "remotely-save:Remotely Save": false,
+      "obsidian-git:Open Git source control": false
     }
   },
-  "active": "0688268500484316",
+  "active": "6d9c33c8973a6855",
   "lastOpenFiles": [
-    "200000_Frontend/240000_Frameworks_Libraries/242000_React/Index.md",
-    "200000_Frontend/240000_Frameworks_Libraries/242000_React/242300_ReactCloneCoding/253200_PerformanceBenchmark.md",
-    "200000_Frontend/240000_Frameworks_Libraries/242000_React/242300_ReactCloneCoding/253100_MiniReactImplementation.md",
-    "200000_Frontend/250000_FrontendTesting/251000_UnitIntegrationTesting/Index.md",
-    "200000_Frontend/Index.md",
-    "200000_Frontend/240000_Frameworks_Libraries/241000_NoFrameworkFrontend/Index.md",
+    "200000_Frontend/270000_React/275000_ReactStudy/275100_ReactWIthTSandStorybook/275110_Chapter03/Index.md",
+    "200000_Frontend/270000_React/275000_ReactStudy/275100_ReactWIthTSandStorybook/275110_Chapter03/275111_Memo.md",
+    "200000_Frontend/270000_React/275000_ReactStudy/275100_ReactWIthTSandStorybook/Index.md",
+    "200000_Frontend/270000_React/275000_ReactStudy/275100_ReactWIthTSandStorybook/275110_Chapter03",
+    "지식창고/성장_일지/바닐라 HTML_CSS_JS의 효율성 높이기 위한 여정.md",
+    "지식창고/성장_일지",
+    "지식창고",
+    "200000_Frontend/270000_React/275000_ReactStudy/Index.md",
+    "200000_Frontend/270000_React/275000_ReactStudy/275100_ReactWIthTSandStorybook",
+    "200000_Frontend/270000_React/Index.md",
+    "200000_Frontend/270000_React/275000_ReactStudy",
+    "200000_Frontend/270000_React/242500_ReactStudyWithTS/Index.md",
+    "200000_Frontend/270000_React/275000_ReactStudyWithTS/Index.md",
+    "200000_Frontend/270000_React/275000_ReactStudyWithTS",
+    "200000_Frontend/270000_React/274000_React_OfficialDocsAnalysis/Index.md",
+    "200000_Frontend/270000_React/274000_React_OfficialDocsAnalysis/254200_ReactDocs_DeepAnalysis.md",
+    "200000_Frontend/270000_React/274000_React_OfficialDocsAnalysis/254100_ReactDocs_Reading.md",
+    "200000_Frontend/270000_React/274000_React_OfficialDocsAnalysis",
+    "200000_Frontend/270000_React/273000_ReactCloneCoding/Index.md",
+    "200000_Frontend/270000_React/273000_ReactCloneCoding/253200_PerformanceBenchmark.md",
+    "200000_Frontend/270000_React/273000_ReactCloneCoding/253100_MiniReactImplementation.md",
+    "200000_Frontend/270000_React/273000_ReactCloneCoding",
+    "200000_Frontend/270000_React/272000_ReactOpenSourceAnalysis/252200_VirtualDOM_Implementation.md",
+    "200000_Frontend/270000_React/272000_ReactOpenSourceAnalysis/Index.md",
+    "200000_Frontend/270000_React/272000_ReactOpenSourceAnalysis/252100_ReactCoreInternal.md",
+    "200000_Frontend/270000_React/272000_ReactOpenSourceAnalysis",
+    "200000_Frontend/270000_React/271000_ReactFundamentals/Index.md",
+    "200000_Frontend/270000_React/271000_ReactFundamentals/251100_JSX_Components.md",
+    "200000_Frontend/270000_React/271000_ReactFundamentals/251200_Hooks_StateMgmt.md",
+    "200000_Frontend/270000_React/271000_ReactFundamentals",
+    "200000_Frontend/270000_React/242100_ReactFundamentals/Index.md",
+    "200000_Frontend/270000_React/242100_ReactFundamentals/251200_Hooks_StateMgmt.md",
+    "100000_CS_ProgrammingFundamentals/120000_ProgrammingLanguages/121000_C_Language/121100_PointersMemoryManagement.md",
+    "100000_CS_ProgrammingFundamentals/110000_CS_Theory/Index.md",
+    "300000_Backend/Index.md",
     "200000_Frontend/240000_Frameworks_Libraries/241000_NoFrameworkFrontend/241100_BookBasedLearning.md",
-    "Index.md",
-    "README.md",
-    "800000_Projects/820000_SideProjects/822000_DDara_Project/Index.md",
-    "800000_Projects/820000_SideProjects/822000_DDara_Project/822500_BackendSetup.md",
-    "800000_Projects/820000_SideProjects/822000_DDara_Project/822400_EnvSetup_CI-CD.md",
-    "800000_Projects/820000_SideProjects/822000_DDara_Project/822300_Testing_Refactoring.md",
-    "800000_Projects/820000_SideProjects/822000_DDara_Project/822200_RealTimeSocketTracking.md",
-    "800000_Projects/820000_SideProjects/822000_DDara_Project/822100_MapAPI_ComponentIntegration.md",
-    "800000_Projects/830000_Hackathons/Index.md",
-    "800000_Projects/820000_SideProjects/Index.md",
-    "800000_Projects/820000_SideProjects/822000_DDara_Project",
-    "800000_Projects/810000_ProfessionalProjects/Index.md",
-    "800000_Projects/Index.md",
-    "800000_Projects/830000_Hackathons",
-    "800000_Projects/820000_SideProjects",
-    "800000_Projects/810000_ProfessionalProjects",
-    "800000_Projects",
-    "700000_SoftwareEngineering_SoftSkills/730000_TimeManagement_GoalSetting/732000_OKR_SMARTGoals/Index.md",
-    "700000_SoftwareEngineering_SoftSkills/730000_TimeManagement_GoalSetting/732000_OKR_SMARTGoals/732100_MidLongTermPlanning.md",
-    "700000_SoftwareEngineering_SoftSkills/730000_TimeManagement_GoalSetting/731000_Prioritization/Index.md",
-    "700000_SoftwareEngineering_SoftSkills/730000_TimeManagement_GoalSetting/731000_Prioritization/731100_UrgencyImportanceMatrix.md",
-    "700000_SoftwareEngineering_SoftSkills/720000_Collaboration_Communication/722000_Documentation_Sharing/Index.md",
-    "700000_SoftwareEngineering_SoftSkills/720000_Collaboration_Communication/722000_Documentation_Sharing/722100_Wiki_ArchitectureDecisionRecords.md",
-    "700000_SoftwareEngineering_SoftSkills/720000_Collaboration_Communication/721000_CodeReviewCulture/Index.md",
-    "700000_SoftwareEngineering_SoftSkills/730000_TimeManagement_GoalSetting/732000_OKR_SMARTGoals",
-    "700000_SoftwareEngineering_SoftSkills/730000_TimeManagement_GoalSetting/731000_Prioritization",
-    "700000_SoftwareEngineering_SoftSkills/720000_Collaboration_Communication/722000_Documentation_Sharing",
-    "700000_SoftwareEngineering_SoftSkills/720000_Collaboration_Communication/721000_CodeReviewCulture",
-    "700000_SoftwareEngineering_SoftSkills/710000_DevProcess/712000_GitVersioning",
     "000000_Memo/지식창고/성장_일지/imgs/회고_템플릿.png",
     "000000_Memo/지식창고/성장_일지/imgs/환경설정_자동화_툴.png",
     "000000_Memo/지식창고/성장_일지/imgs/한입크기로_잘라먹는_타입스크립트.png",
